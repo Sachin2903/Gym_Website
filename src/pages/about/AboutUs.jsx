@@ -11,7 +11,7 @@ const AboutSection = () => {
       
       <div className={style.aboutPageContainer}>
         <div className={style.topContainer}>
-          <iframe className={style.video} src="https://www.youtube.com/embed/X_9VoqR5ojM" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+          <iframe  className={style.video} src="https://www.youtube.com/embed/fYvtLAHT-cE" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
           <div className={style.topTextSection}>
             <h1 className={style.aboutHeading}>About Us</h1>
             <p>GYM is a fitness hub for anyone who wants to know their bodies inside out and how to work with them. The gym boasts cardio and weights stations, swimming pools, valet parking, squash courts, physiotherapists, spinning studios and a massage center. The gym also has its own fitness academy where it offers courses in fitness management, personal training and group exercise instruction.</p>
@@ -35,7 +35,7 @@ const AboutSection = () => {
             </ul>
 
           </div>
-          <iframe autoplay className={style.video} src="https://www.youtube.com/embed/XP1Ne5mBn_A" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+          <iframe className={style.video} src="https://www.youtube.com/embed/HnoPHqrdXQ8" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
 
         </div>
       </div>
