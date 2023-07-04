@@ -1,4 +1,4 @@
-# gym
+
 <h1 align="center">The Gym - Fitness Club 👋</h1>
 
 # Deployment Site link
